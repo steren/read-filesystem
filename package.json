@@ -1,0 +1,14 @@
+{
+  "name": "read-filesystem",
+  "version": "1.0.0",
+  "description": "Webserver to read the file at the given location",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "steren@google.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
